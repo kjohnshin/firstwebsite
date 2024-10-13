@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  width: "50%";
+  margin: 1 rem;
+  font-family: cursive;
+  font-weight: 800;
+  border: 4px solid blue;
+  margin: 2%;
+  padding: 3rem;
+  color: indigo;
+}
+
+p {
+  text-align: left;
+  width: 25%;
+}
+li {
+  list-style-type: none;
+  color: black;
+}
+.sushi {
+  background-color: cadetblue;
+  text-align: center;
+  font-size: 30;
+}
+.ramen {
+  text-align: center;
+  font-size: 25;
+}
